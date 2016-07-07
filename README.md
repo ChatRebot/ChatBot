@@ -1,2 +1,2 @@
-# ChatRebot
+# ChatBot
 ChatBot
